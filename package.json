@@ -1,0 +1,8 @@
+{
+  "name": "sample-web-project",
+  "version": "1.0.0",
+  "description": "Sample HTML CSS JavaScript project with GitHub Actions",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
